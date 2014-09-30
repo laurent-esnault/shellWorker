@@ -1,0 +1,11 @@
+{
+    "name": "shellWorker",
+    "description": "Module using SystemWorker to facilitate shell command execution",
+    "version": "1.0",
+    "author" : "4D",
+    "homepage": "http://wakanda.org",
+    "main" : "./shellWorker",
+    "licenses" : "MIT",
+    "keywords": ["wakanda","shell","SystemWorker"],
+    "engines": {"wakanda": ">= 10"}
+}
